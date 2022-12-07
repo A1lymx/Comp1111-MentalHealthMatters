@@ -11,7 +11,7 @@ function goSearch() {
  * @param {object} data - dataset
 */
 async function getData() {
-    const path = "/archive/Student_Mental_Health.csv"
+    const path = "/Student_Mental_Health.csv"
     var data = d3.csv(path)
     return data
 }
