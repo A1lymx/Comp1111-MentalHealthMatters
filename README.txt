@@ -50,9 +50,3 @@ Paragraph Gender - Afifi, M. (2007). Gender differences in mental health. Avalia
 
 <!--dataset!-->
 Dataset - MD SHARIFUL ISLAM (2022). Student Mental Health. Avaliable at:https://www.kaggle.com/datasets/shariful07/student-mental-health
-
-
-
-
-
-

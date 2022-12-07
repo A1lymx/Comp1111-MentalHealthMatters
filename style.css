@@ -1,0 +1,43 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: auto;
+}
+
+text {
+    font: 10px sans-serif;
+}
+
+input {
+    margin: 0 7px;
+}
+
+#my_dataviz1 {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#my_dataviz2 {
+    width: 40%;
+    margin: 0 auto;
+}
+
+
+.photo {
+    position: relative;
+    float: left;
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+}
+
+.photo:hover img {
+    -webkit-transform: scale(1.15);
+    -moz-transform: scale(1.15);
+    -o-transform: scale(1.10);
+    transform: scale(1.10);
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
